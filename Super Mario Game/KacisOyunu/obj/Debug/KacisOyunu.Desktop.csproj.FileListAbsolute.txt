@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\KacisOyunuDesktop\KacisOyunu\bin\Debug\KacisOyunu.exe
+C:\Users\HP\source\repos\KacisOyunuDesktop\KacisOyunu\bin\Debug\KacisOyunu.exe.config
+C:\Users\HP\source\repos\KacisOyunuDesktop\KacisOyunu\obj\Debug\KacisOyunu.Desktop.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\KacisOyunuDesktop\KacisOyunu\obj\Debug\KacisOyunu.AnaMenu.resources
+C:\Users\HP\source\repos\KacisOyunuDesktop\KacisOyunu\obj\Debug\KacisOyunu.Level.resources
+C:\Users\HP\source\repos\KacisOyunuDesktop\KacisOyunu\obj\Debug\KacisOyunu.Properties.Resources.resources
+C:\Users\HP\source\repos\KacisOyunuDesktop\KacisOyunu\obj\Debug\KacisOyunu.Desktop.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\KacisOyunuDesktop\KacisOyunu\obj\Debug\KacisOyunu.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\KacisOyunuDesktop\KacisOyunu\obj\Debug\KacisOyunu.exe
+C:\Users\HP\source\repos\KacisOyunuDesktop\KacisOyunu\obj\Debug\KacisOyunu.pdb
+C:\Users\HP\source\repos\KacisOyunuDesktop\KacisOyunu\bin\Debug\KacisOyunu.pdb
